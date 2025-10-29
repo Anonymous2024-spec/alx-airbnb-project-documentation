@@ -1,8 +1,5 @@
 # Airbnb Clone — Backend Features & Functionalities
 
-> **Repository path:** `features-and-functionalities/`
-> **Files to include:** `README.md` (this file) and `airbnb_features.png` (Draw.io export)
-
 ---
 
 ## 1. Project Overview
